@@ -15,6 +15,7 @@
 This repository contains 5 sections basic Task Manager UI that was created with React and Tailwind.
 
 Task Manager has 5 sections,
+
 - Home
 - Features
 - Apps
@@ -22,6 +23,7 @@ Task Manager has 5 sections,
 - About us
 
 The following functional features have been implemented,
+
 - Input validation
 - Carousel slider
 - Scroll into View
@@ -31,7 +33,6 @@ The following functional features have been implemented,
 - [React](https://reactjs.org/)
 - [Tailwind](https://tailwindcss.com/)
 - [Vercel](https://vercel.com)
-
 
 ## Installation & Set Up
 
@@ -44,7 +45,7 @@ The following functional features have been implemented,
 2. Change the current working directory
 
    ```sh
-   cd dash
+   cd task-manager
    ```
 
 3. Install dependencies
@@ -52,11 +53,11 @@ The following functional features have been implemented,
    ```sh
    npm install
    ```
-   
+
 4. Start the development server
 
    ```sh
    npm run start
    ```
-   
+
 <p align="right">(<a href="#top">back to top</a>)</p>
