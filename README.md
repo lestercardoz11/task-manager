@@ -1,31 +1,62 @@
-# Create React App
+<h1 align="center">
+  <img src="public/logo192.png" alt="Logo" width="25" height="25"> Task Manager
+</h1>
+<p align="center">
+  <img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img alt="tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+  <img alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img alt="vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
 
-This directory is a brief example of a [Create React App](https://github.com/facebook/create-react-app) site that can be deployed to Vercel with zero configuration.
+## About The Project
 
-## Deploy Your Own
+This repository contains 5 sections basic Task Manager UI that was created with React and Tailwind.
 
-Deploy your own Create React App project with Vercel.
+Task Manager has 5 sections,
+- Home
+- Features
+- Apps
+- Testimonials
+- About us
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/vercel/tree/main/examples/create-react-app&template=create-react-app)
+The following functional features have been implemented,
+- Input validation
+- Carousel slider
+- Scroll into View
 
-_Live Example: https://create-react-template.vercel.app/_
+## Built Using
 
-## Available Scripts
+- [React](https://reactjs.org/)
+- [Tailwind](https://tailwindcss.com/)
+- [Vercel](https://vercel.com)
 
-In the project directory, you can run:
 
-### `npm start`
+## Installation & Set Up
 
-Runs the app in the development mode. Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+1. Clone repository
 
-The page will reload when you make changes. You may also see any lint errors in the console.
+   ```sh
+   git clone https://github.com/lestercardoz11/task-manager.git
+   ```
 
-### `npm test`
+2. Change the current working directory
 
-Launches the test runner in the interactive watch mode. See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+   ```sh
+   cd dash
+   ```
 
-### `npm run build`
+3. Install dependencies
 
-Builds the app for production to the `build` folder.
+   ```sh
+   npm install
+   ```
+   
+4. Start the development server
 
-It correctly bundles React in production mode and optimizes the build for the best performance. The build is minified and the filenames include the hashes.
+   ```sh
+   npm run start
+   ```
+   
+<p align="right">(<a href="#top">back to top</a>)</p>
