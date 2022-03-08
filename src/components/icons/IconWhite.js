@@ -1,8 +1,8 @@
 const IconWhite = () => {
   return (
     <svg
-      width='216'
-      height='41'
+      width='190'
+      height='34'
       viewBox='0 0 216 41'
       fill='none'
       xmlns='http://www.w3.org/2000/svg'>

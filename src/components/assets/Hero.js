@@ -4,8 +4,7 @@ const Hero = () => {
       className='w-full'
       xmlns='http://www.w3.org/2000/svg'
       data-name='Layer 1'
-      width='800'
-      height='500'
+      width='100%'
       viewBox='0 0 801.92126 597.45739'>
       <circle
         id='a21b076b-2a02-49a5-bb32-17a8ec3aa4f0'

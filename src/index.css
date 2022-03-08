@@ -3,3 +3,36 @@
 @tailwind utilities;
 
 @import url('https://fonts.googleapis.com/css2?family=Mulish:wght@200;300;400;500;600;700;800;900&display=swap');
+
+.header {
+  padding-top: 30px;
+  padding-bottom: 8px;
+  position: relative;
+  margin-bottom: 4rem;
+}
+
+.header::before {
+  content: '';
+  position: absolute;
+  bottom: -2rem;
+  height: 0.15rem;
+  z-index: 2;
+}
+
+.main::before {
+  left: 30%;
+  width: 40%;
+  background: #1f1534;
+}
+
+.main-white::before {
+  left: 40%;
+  width: 20%;
+  background: #fff;
+}
+
+.sub::before {
+  left: 0;
+  width: 20%;
+  background: #1f1534;
+}

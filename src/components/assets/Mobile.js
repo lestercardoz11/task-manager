@@ -1,12 +1,10 @@
-const Leading = () => {
+const Mobile = () => {
   return (
     <svg
       xmlns='http://www.w3.org/2000/svg'
       data-name='Layer 1'
-      width='1139.17088'
-      height='654.54324'
-      viewBox='0 0 1139.17088 654.54324'
-      xmlns:xlink='http://www.w3.org/1999/xlink'>
+      width='100%'
+      viewBox='0 0 1139.17088 654.54324'>
       <title>progressive_app</title>
       <circle cx='246.82682' cy='521.76476' r='59.24334' fill='#f2f2f2' />
       <circle cx='256.45989' cy='513.095' r='59.24334' fill='#458ff6' />
@@ -222,4 +220,4 @@ const Leading = () => {
   );
 };
 
-export default Leading;
+export default Mobile;
