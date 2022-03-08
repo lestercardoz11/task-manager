@@ -6,20 +6,20 @@ const Testimonials = () => {
 
   const data = [
     {
-      image: './images/TM-User1-profile.png',
+      image: './images/TM-User1-profile.webp',
       name: 'Edward Newgate',
       designation: 'Sales And Marketing',
       quote:
         '"Our dedicated task management app and web portal allows us to access information instantaneously and securely"',
     },
     {
-      image: './images/TM-User2-profile.jpg',
+      image: './images/TM-User2-profile.webp',
       name: 'John Smith',
       designation: 'HR',
       quote: '"It really helped optimize our onboarding process"',
     },
     {
-      image: './images/TM-User3-profile.jpg',
+      image: './images/TM-User3-profile.webp',
       name: 'Kevin James',
       designation: 'Project Management',
       quote: '"We no longer miss our deadlines!"',
